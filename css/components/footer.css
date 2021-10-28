@@ -1,0 +1,18 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background: linear-gradient(to bottom, white 30%, #1edd879d 150%)
+}
+
+.links a {
+  font-size: 30px;
+  color: #012716;
+  transition: 1s;
+  opacity: 0.5;
+}
+
+.links a:hover {
+  font-size: 35px;
+  color: purple;
+  opacity: 0.9;
+}
